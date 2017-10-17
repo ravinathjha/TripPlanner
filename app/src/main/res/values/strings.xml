@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">TripPlanner</string>
+    <string name="name">TripPlanner</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="log_in_button">Log In</string>
+    <string name="register_link">No account yet? Create one</string>
+    <string name="register_name">Name</string>
+    <string name="signup_button">Sign Up</string>
+    <string name="log_in_link">Already a member? Login</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="forget_button">Forget Password</string>
+    <string name="link_to_forgetPassword">Forgot Password?</string>
+    <string name="logout">Logout</string>
+    <string name="go">Go</string>
+    <string name="where_to_go">Where to go? Search Here</string>
+    <string name="splash_name">Trip Planner</string>
+    <string name="location_title">Use location?</string>
+    <string name="location_message">This application wants to change your device settings:</string>
+    <string name="ok">ok</string>
+    <string name="title_activity_home_map">Map</string>
+    <string name="drawer_open">Drawer Open</string>
+    <string name="drawer_close">Drawer Close</string>
+    <string-array name="navigation">
+        <item>Home</item>
+        <item>Search History</item>
+        <item>Share your Location</item>
+    </string-array>
+</resources>
